@@ -1,0 +1,57 @@
+```html {
+    height: 100%;
+  }
+  
+  body {
+    margin: 0;
+    height: 100%;
+    font-family: helvetica;
+    color: black;
+  }
+  
+  a {
+    color: yellowgreen;
+  }
+  
+  header {
+    padding: 10px;
+    background: #2cacac;
+    color: #556666;
+    text-align: center;
+  }
+  
+  nav {
+    width: 200px;
+    height: 100%;
+    float: left; /* don't modify */
+    background-color: orangered;
+    margin-right: 20px;
+  }
+  
+  nav ul {
+    list-style: none;
+  }
+  
+  nav ul li {
+    margin-bottom: 10px;
+  }
+  
+  section {
+    width: 500px;
+    float: left; /* don't modify */
+    padding: 5px;
+    text-align: right;
+  }
+  
+  footer {
+    clear: left; /* don't modify */
+    padding: 10px;
+    background: purple;
+    text-align: center;
+  }```
+  
+  :point_up:two column
+  Jump
+  Message Input
+  
+  Message #tacoma-101-apr-28-18
